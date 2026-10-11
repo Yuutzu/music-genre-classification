@@ -113,10 +113,5 @@ Requirements: Python, PyTorch and torchvision (pretrained ResNet18), and an audi
 - Use an artist-aware split or a cleaned GTZAN list.
 - Classify several windows per song and vote, keeping all windows of a song in the same split.
 
-## Citation
-
-If you use the dataset, cite: G. Tzanetakis and P. Cook, "Musical genre classification of audio signals," *IEEE Transactions on Speech and Audio Processing*, 2002.
-
-## License
-
-[Add a license, or state that this is coursework not intended for redistribution.]
+## Google Drive Files
+https://drive.google.com/drive/folders/11Dayqxbk4fb60xYeLsdZ7evwZYKvjRJW?usp=sharing
